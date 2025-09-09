@@ -1,0 +1,16 @@
+.navexwp-tracking-container {
+    margin-bottom: 15px;
+}
+
+.navexwp-tracking-container input[type="text"] {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.navexwp-tracking-info {
+    margin-top: 20px;
+    padding: 10px;
+    background: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
